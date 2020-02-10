@@ -13,4 +13,5 @@ Brody Mack
 
 ## Responses to Readings
 [Blumenstock response](https://github.com/Bfmack18/Workshop-/blob/master/Blumenstock.md) ( Jan. 27) 
+
 [Lloyd response](https://github.com/Bfmack18/Workshop-/blob/master/Lloyd.md) (Feb. 10th)
