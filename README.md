@@ -9,7 +9,7 @@ Brody Mack
 
 ## Projects
 
-1. [Zambia] (https://github.com/Bfmack18/Workshop-/new/master)(Feb 4th)
+1. [Zambia] (https://github.com/Bfmack18/Workshop-/new/master)  (Feb 4th)
 
 ## Responses to Readings
 [Blumenstock response](https://github.com/Bfmack18/Workshop-/blob/master/Blumenstock.md) ( Jan. 27) 
