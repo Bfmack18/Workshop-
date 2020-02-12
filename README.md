@@ -7,9 +7,9 @@ Brody Mack
 1. Line Plot 
 2. The Path of  Salesman -Plot 
 
-## Project 1 
+## Projects
 
-1. Project 1 (Zambia)
+1. [Zambia] (https://github.com/Bfmack18/Workshop-/new/master)(Feb 4th)
 
 ## Responses to Readings
 [Blumenstock response](https://github.com/Bfmack18/Workshop-/blob/master/Blumenstock.md) ( Jan. 27) 
