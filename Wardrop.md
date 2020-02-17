@@ -14,4 +14,4 @@ The bottom up approach uses micro census surveys which is a survery conducted in
 which account for the entire population in that small area. This method is alot cheaper since the micro
 census surveys are only a fraction of the coat of a full census. They then use this data 
 to predict the population in locations of that country that are not sampled. An example of 
-the bottom-up method is to use to find the ruggedness of terrain.  
+the bottom-up method is to use it to find the ruggedness of terrain and wherepeople would live by this. type of terrain to. see how much danger they would be in during a natural disaster.  
