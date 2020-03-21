@@ -14,4 +14,10 @@ The population in Sri Lanka is spread very evenly amongst most of the districts.
 
 The problem I encountered during this part is that at first the raster files I used for a different country were way to big. so my computer was taking as long as a day to run the code. After switching to a smaller country like Sri Lanka I was able to finish this part in no time. 
 
-![Sri Lanka Population Distribution](https://github.com/Matt-Howat/Workshop/blob/master/dom_pop19.png)
+![Sri Lanka Population Distribution](https://github.com/Bfmack18/Workshop-/blob/master/lkacnty_pop19.png)
+
+## Bar Graph of the Population Distribution
+
+The bar shows how evenly spread most of the poputlation is for most of the districts. Not one general district appears to be over populated, it all appears to be nice and spread so people inthis country are living on top of eachother. 
+
+![Map and Bar Graph of the population in the Sri Lanka](https://github.com/Matt-Howat/Workshop/blob/master/DomRepBarGraph.png)
