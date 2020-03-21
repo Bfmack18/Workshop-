@@ -20,4 +20,4 @@ The problem I encountered during this part is that at first the raster files I u
 
 The bar shows how evenly spread most of the poputlation is for most of the districts. Not one general district appears to be over populated, it all appears to be nice and spread so people inthis country are living on top of eachother. 
 
-![Map and Bar Graph of the population in the Sri Lanka](https://github.com/Matt-Howat/Workshop/blob/master/DomRepBarGraph.png)
+![Map and Bar Graph of the population in the Sri Lanka](https://github.com/Bfmack18/Workshop-/blob/master/Part%203.png)
