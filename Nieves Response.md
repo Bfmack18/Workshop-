@@ -1,0 +1,6 @@
+# Nieves Response
+Brody Mack 
+
+1. Nieves used the random forest machine learning method to predict what value globally?  Describe in detail how random forest works.  What is a dasymmetric population allocation? Which geospatial covariates proved to be the most important when predicting global values of where humans reside?
+
+  1a. Nieves used the random forest machine learning method to predict the value of urbanization and population growth to the         year 2050. Random Forest is a machine based learning algortithm that allows for the user to implement the most recent        information about  countries and it allows for the machine to create a prediction based on this data by crwting its own algorithm to estimate the growth or possible decline in certain situations. By using machine based learning such as Random forest it allows for data scientists to create estimate of certain factors just like Nieves in this situation with the urbanization of lower middle class countries. The most important covariates when predicting where humans reside appear to be factors such as weather patterns or climate, topography, and also how close they are essential materials (food, water, shelter).    
