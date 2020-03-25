@@ -19,3 +19,5 @@ Brody Mack
 [Wardrop Response](https://raw.githubusercontent.com/Bfmack18/Workshop-/master/Wardrop.md) (Feb. 18th)
 
 [Stevens response](https://github.com/Bfmack18/Workshop-/blob/master/Stevens.md) (Mar. 2nd)
+
+[Nieves Response] (https://github.com/Bfmack18/Workshop-/blob/master/Nieves%20Response.md) (Mar. 24th)
