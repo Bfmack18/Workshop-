@@ -9,7 +9,7 @@ Brody Mack
 
 ## Projects
 
-1. [Sri Lanka] (https://github.com/Bfmack18/Workshop-/blob/master/Project_1.md)  (Feb 4th)
+1. [Sri Lanka](https://github.com/Bfmack18/Workshop-/blob/master/Project_1.md)  (Feb 4th)
 
 ## Responses to Readings
 [Blumenstock response](https://github.com/Bfmack18/Workshop-/blob/master/Blumenstock.md) ( Jan. 27) 
@@ -20,4 +20,4 @@ Brody Mack
 
 [Stevens response](https://github.com/Bfmack18/Workshop-/blob/master/Stevens.md) (Mar. 2nd)
 
-[Nieves Response] (https://github.com/Bfmack18/Workshop-/blob/master/Nieves%20Response.md) (Mar. 24th)
+[Nieves Response](https://github.com/Bfmack18/Workshop-/blob/master/Nieves%20Response.md) (Mar. 24th)
