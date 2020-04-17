@@ -2,6 +2,6 @@
 Brody Mack 
 ## Density Plots
 
-![Sri Lanka Density distribution](https://github.com/Bfmack18/Workshop-/blob/master/de_pop15.png)
+![Population Estimation of Dompe](https://github.com/Bfmack18/Workshop-/blob/master/de_pop15.png)
 
-(https://github.com/Bfmack18/Workshop-/blob/master/de_dens.png)
+![Density Estimation of Dompe](https://github.com/Bfmack18/Workshop-/blob/master/de_dens.png)
