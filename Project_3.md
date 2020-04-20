@@ -9,4 +9,4 @@ Brody Mack
 ![Density Estimation of Dompe](https://github.com/Bfmack18/Workshop-/blob/master/sp_dsg_conts.png)
 
 ## Health Care Sites in SRI Lanka 
-![Health care sites of Sri Lanka]
+![Health care sites of Sri Lanka](https://github.com/Bfmack18/Workshop-/blob/master/Rplot06.png)
